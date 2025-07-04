@@ -12,6 +12,7 @@ public class MainView {
         String filePath = "src/data/contacts.csv";
         while (true) {
             System.out.println("========== CHUONG TRINH QUAN LY DANH BA ==========");
+            System.out.println("Chon chuc nang theo so (de tiep tuc)");
             System.out.println("1. Xem danh sach danh ba");
             System.out.println("2. Them moi");
             System.out.println("3. Cap nhat");
